@@ -1,0 +1,8 @@
+# Default behavior
+* text=auto
+
+# LF line endings
+*.sh  text eol=lf
+*.md  text eol=lf
+.gitattributes text eol=lf
+.gitignore text eol=lf
